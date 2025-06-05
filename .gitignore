@@ -1,7 +1,8 @@
 # ignore the texts to avoid large github upload. PN
 p1-texts/novels/
 p2-texts/
-
+zips/
+z_functs/ # a dir for paths etc.
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -198,3 +199,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+zips/p1-texts.zip
