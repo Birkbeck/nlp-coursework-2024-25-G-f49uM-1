@@ -200,3 +200,5 @@ cython_debug/
 .cursorindexingignore
 
 zips/p1-texts.zip
+snips.txt
+.gitignore
