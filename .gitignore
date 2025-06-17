@@ -203,3 +203,5 @@ zips/p1-texts.zip
 snips.txt
 .gitignore
 pickles/parsed.pickle
+pickles/speeches.pkl
+.gitignore
