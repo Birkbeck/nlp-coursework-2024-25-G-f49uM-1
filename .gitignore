@@ -8,6 +8,7 @@ pickles # adding to save the 1GB file from uploads
 __pycache__/
 *.py[cod]
 *$py.class
+.gitignore
 
 # C extensions
 *.so
@@ -204,4 +205,9 @@ snips.txt
 .gitignore
 pickles/parsed.pickle
 pickles/speeches.pkl
+.gitignore
+pickles/hansard_yakes.pkl
+testing.ipynb
+.gitignore
+.gitignore
 .gitignore
