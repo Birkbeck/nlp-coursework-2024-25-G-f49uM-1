@@ -3,7 +3,8 @@ p1-texts/novels/
 p2-texts/
 zips/
 z_functs/ # a dir for paths etc.
-pickles # adding to save the 1GB file from uploads
+pickles/ # adding to save the 1GB file from uploads
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
