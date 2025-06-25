@@ -201,16 +201,9 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-zips/p1-texts.zip
+*zip
 snips.txt
 .gitignore
-pickles/parsed.pickle
-pickles/speeches.pkl
+*.pickle
+*.pkl
 .gitignore
-pickles/hansard_yakes.pkl
-testing.ipynb
-.gitignore
-.gitignore
-.gitignore
-pickles/hansard_spacy.pkl
-testing_20250622.ipynb
