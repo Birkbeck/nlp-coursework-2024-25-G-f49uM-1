@@ -1,1 +1,3 @@
 Answers to the text questions go here.
+
+All answers have been provided in the Jupyter notebook.
